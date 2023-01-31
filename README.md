@@ -20,4 +20,4 @@ Thereafter, run the following command to start the application:
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-orange)
    
-Naser Suleiman ©2023 All Rights Reserved. 
+Naser Suleiman ©2023 All Rights Reserved.  
